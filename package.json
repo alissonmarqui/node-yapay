@@ -1,0 +1,29 @@
+{
+  "name": "node-yapay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Biblioteca de integração do intermediador Yapay para transações em cartão de credito e boleto em Node.js",
+  "keywords": [
+    "node",
+    "yapay"
+  ],
+  "homepage": "https://github.com/alissonmarqui/node-yapay",
+  "author": "Alisson de Marqui",
+  "dependencies": {
+    "payment": "^2.4.0",
+    "request": "^2.88.2",
+    "xml2json": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissonmarqui/node-yapay.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alissonmarqui/node-yapay/issues"
+  }
+}
